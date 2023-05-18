@@ -1,0 +1,36 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family:"Arial" ;
+}
+.cabecalho{
+    width:auto;
+    height: 240px;
+    position:static;
+}
+
+.imag{
+    display: inline-block;
+    background-image: url('/imagens/conceito\ zen.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:85%;
+    width:100%;
+}
+.menu{
+    height: 15%;
+    width: 100%;
+    border-width: 1px;
+    border-color:black;
+    border-style: solid;
+    background-color: aliceblue;
+    position: relative;
+    bottom: 5px;
+}
+.p1{   
+    display: inline-block;
+    position: relative;
+    word-spacing: 10px;
+    bottom: 6px;
+    left: 10px ;
+}
